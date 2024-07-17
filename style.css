@@ -1,0 +1,72 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 50px;
+    background-color: #e0f7fa;
+    color: #006064;
+}
+h1 {
+    margin-bottom: 40px;
+    color: #004d40;
+}
+input[type="text"] {
+    padding: 10px;
+    margin: 10px;
+    width: 250px;
+    border: 2px solid #004d40;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+input[type="button"] {
+    padding: 10px 20px;
+    margin: 20px;
+    background-color: #004d40;
+    color: white;
+    font-family: cursive;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+input[type="button"]:hover {
+    background-color: #003d33;
+}
+result {
+    font-family: cursive;
+    margin-top: -0px;
+    width: 350px;
+    margin: auto;
+    font-size: 15px;
+    color: white;
+    border: 2px solid white;
+    border-radius: 5px;
+    background-color: rgb(31, 92, 143);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+body{
+    background-image: url(./pic.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#a{
+    height: 380px;
+    width: 400px;
+    margin: auto;
+    padding-top: 50px;
+    border-radius: 15px;
+    border: 2px solid white;
+    box-shadow: 5px 5px 5px black;
+    background-image: url(./pic.jpg);
+    background-size: cover;
+    color: white;
+
+}
+h1{
+    color: white;
+}
+p{
+    color: white;
+    font-family: cursive;
+    font-weight: 1000;
+}
